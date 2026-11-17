@@ -1,0 +1,1 @@
+import{u as o,j as s}from"./index-DV6mda0e.js";function c({id:n,children:r}){const{t:m}=o(),e=m.demos[n];return s.jsxs("div",{className:"demo-chrome",children:[s.jsx("span",{className:"num",children:e.number}),s.jsx("h1",{children:e.title}),s.jsx("p",{children:e.blurb}),s.jsx("span",{className:"hint",children:e.hint}),r]})}export{c as D};
